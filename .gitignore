@@ -2,3 +2,9 @@ target/
 bin/
 dependency-reduced-pom.xml
 
+.classpath
+.factorypath
+.idea/
+.project
+.settings/
+google-cloud-teleport-java.iml
